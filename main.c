@@ -3,6 +3,7 @@
 int main() {
     printf("Hello, World!\n");
 
+    printf("smieszna linijka");
     printf("opcja jeden");
     printf("opcja dwa");
 
